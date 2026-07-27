@@ -65,5 +65,5 @@ static validaTituloPaginaUser(){
 }
 
 
-export default PaginaLogin;
+export default PaginaLogin; 
  
