@@ -59,3 +59,4 @@ Cypress.Commands.add('excluirUsuario', (idUsuario) => {
     return response.body;
   });
 });
+ 

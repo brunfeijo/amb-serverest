@@ -24,3 +24,4 @@ echo cypress/videos/ >> .gitignore
 echo cypress/screenshots/ >> .gitignore
 echo cypress/downloads/ >> .gitignore
 echo package-lock.json >> .gitignore  # opcional
+ 

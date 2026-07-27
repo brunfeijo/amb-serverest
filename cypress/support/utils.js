@@ -19,3 +19,4 @@ export function gerarDadosProduto() {
     imagem: 'cute.jpg' // Caminho do arquivo na pasta fixtures
   });
 }
+ 

@@ -18,3 +18,4 @@ Cypress.Commands.add('geraDadosProduto', () => {
 
 
 })
+ 

@@ -33,3 +33,4 @@ export const gerarProduto = () => {
     quantidade: gerarNumeroAleatorio(1, 100), // Quantidade entre 1 e 100
   };
 };
+ 

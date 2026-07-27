@@ -46,3 +46,4 @@ describe('Validação de cadastro como admin', () => {
     PaginaCadastro.validaErroSenha()
   })
 })
+ 

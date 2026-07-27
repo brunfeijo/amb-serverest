@@ -52,4 +52,4 @@ class ProdutosAPI {
   }
   
   export default new ProdutosAPI();
-  
+   
