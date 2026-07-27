@@ -12,6 +12,6 @@ após isso:
 
 **interface headless:**
 
-`npc cypress run`
+`npx cypress run`
 
 Obrigado! :D
