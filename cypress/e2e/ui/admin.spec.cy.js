@@ -45,5 +45,7 @@ describe('Validação de cadastro como admin', () => {
     PaginaCadastro.validaErroEmail()
     PaginaCadastro.validaErroSenha()
   })
-})
+});
+
+
  
