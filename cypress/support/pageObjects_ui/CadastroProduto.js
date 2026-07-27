@@ -60,4 +60,4 @@ class CadastroProduto {
 }
 
 export default CadastroProduto
- 
+  
