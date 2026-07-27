@@ -1,0 +1,27 @@
+[33m86dd7fe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m (change) gitignore
+[33m1feff15[m enviando commit completo, 3 tcs de UI e 3 de API
+[33md4b6046[m Update README.md
+[33m9c5769c[m resumo do readme
+[33m9b9b3ea[m adicionado novo readme! :D
+[33mf19db64[m adicionado novo readme :D
+[33m7270901[m feat(testes) adicionados ultimos casos de teste na spec de produtos
+[33mdb7ab4f[m feat(testes) corrigido problema com usuariosapi.spec
+[33m265e3ed[m adicionado o readme.md
+[33m5302b9f[m feat(testes): adicionado o testcase de get do produto
+[33m98d6937[m Update README.md
+[33ma97579a[m Update README.md
+[33mdd30ece[m Update README.md
+[33mf888130[m Create README.md
+[33mcf1a129[m feat(testes): criação de spec e pageobjects relacionados a alguns cenários de API
+[33m1785ece[m feat(testes): arquivos de pageobject e specs renomeadas para melhor representar os testes de UI e API, criado a spec de login
+[33m6a3faa3[m feat(testes): alteradas algumas pastas para organizar melhor com testes de api
+[33m68df639[m feat(testes): adicionado caso de teste de caminho feliz de cadastro/login
+[33m6d68004[m feat(testes): refatorado novo caso de testes para criação, validação e exclusão do produto
+[33m3da0df1[m feat(testes): criado novo caso de testes para garantir a mensagem de erro na duplicidade da criação de produtos
+[33m59676e1[m feat(testes): refatorando partes do código para deixar mais abstrato, principalmente a parte de exclusão do produto na tabela
+[33mabd1e6e[m feat(testes): adicionado novo spec para a validação do cadastro de produtos através de criação pelo admin, criação, busca, exclusão, pois a edição não funciona na página.
+[33m80f3626[m feat(testes): adicionado casos de teste para a validação do menun do topo da página após logar como admin, e começo da criação do test case de produtos
+[33m155909b[m feat(testes): adicionar casos de teste para validação de mensagens de erro no login, cadastro e validação da tela de administrador após cadastro bem-sucedido
+[33md6f121f[m docs: arrumado alguns erros de digitação
+[33m5c38be2[m feat(tests): adiciona caso de teste para validar layout da tela de login
+[33me555051[m Removendo o node_modules
