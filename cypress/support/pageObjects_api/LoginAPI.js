@@ -7,5 +7,5 @@ export default class LoginAPI {
       failOnStatusCode: false, // Evita falha automática para capturar erros
     });
   }
-}
- 
+};
+
