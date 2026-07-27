@@ -45,6 +45,5 @@ class UsuariosAPI {
     });
   }
 }
-
 export default new UsuariosAPI();
  
