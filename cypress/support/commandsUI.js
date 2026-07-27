@@ -17,5 +17,5 @@ Cypress.Commands.add('geraDadosProduto', () => {
   }
 
 
-})
- 
+});
+
